@@ -1,0 +1,110 @@
+/* Base Font Size */
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+/* Button and Form Focus States */
+.btn:focus,
+.btn:active:focus,
+.btn-link.nav-link:focus,
+.form-control:focus,
+.form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+    outline: none; /* Remove default outline for better appearance */
+}
+
+/* Ensure Full Page Height */
+html, body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    padding-bottom: 60px; /* Ensures space for footer */
+    display: flex;
+    flex-direction: column; /* Flexbox for better alignment */
+    font-family: 'Roboto', sans-serif; /* Modern font */
+    background-color: #f5f7fa; /* Light background for a modern look */
+}
+
+/* Main Content Wrapper */
+.main-content {
+    flex: 1 0 auto; /* This ensures the content takes up all available space */
+}
+
+/* Print Styles */
+@media print {
+    body * {
+        visibility: hidden;
+    }
+
+    .print-section, .print-section * {
+        visibility: visible;
+        color: black;
+    }
+
+    .card-footer {
+        display: none;
+    }
+
+    .print-section {
+        position: absolute;
+        left: 0;
+        top: 0;
+    }
+}
+
+/* Modern Button Styling */
+.btn {
+    border-radius: 50px; /* Rounded buttons for a modern look */
+    transition: all 0.3s ease-in-out; /* Smooth transition for interactions */
+}
+
+    .btn:hover {
+        background-color: #1b6ec2; /* Slightly darker color on hover */
+        color: white;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15); /* Subtle shadow on hover */
+    }
+
+/* Modern Form Control Styling */
+.form-control {
+    border-radius: 8px; /* Rounded form fields */
+    padding: 0.75rem; /* More padding for larger clickable area */
+    transition: border-color 0.3s ease-in-out;
+}
+
+    .form-control:focus {
+        border-color: #258cfb; /* Focus border color */
+    }
+
+/* Print Section Specifics */
+@media print {
+    .print-section {
+        padding: 20px;
+        background: white; /* White background for printing */
+        box-shadow: none;
+    }
+}
+
+/* Responsive Footer Padding */
+footer {
+    flex-shrink: 0; /* Ensures footer stays at the bottom */
+    padding: 1rem;
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+    width: 100%;
+}
+
+@media (max-width: 576px) {
+    footer {
+        font-size: 14px;
+        padding: 0.75rem;
+    }
+}

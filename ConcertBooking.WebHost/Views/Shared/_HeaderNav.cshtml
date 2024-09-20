@@ -1,0 +1,47 @@
+﻿@using ConcertBooking.Infrastructure;
+<nav class="navbar navbar-expand-lg bg-dark text-light" style="background: linear-gradient(135deg, #343a40, #495057);">
+    <div class="container-fluid">
+        <a class="navbar-brand d-flex align-items-center" asp-action="Index" asp-controller="Home">
+            <img class="rounded-circle me-2" src="~/css/concerthub.jpeg" style="width: 40px; height: 40px;" />
+            <span class="fw-bold text-light">ConcertHub</span>
+        </a>
+        <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item">
+                    <a class="nav-link text-light" asp-controller="Home" asp-action="Index">HOME</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-light" asp-controller="Home" asp-action="AboutUs">ABOUT US</a>
+                </li>
+                
+                @if (User.IsInRole(GlobalConfiguration.Admin_Role))
+                {
+                    <li class="nav-item">
+                        <a class="nav-link text-light" asp-controller="Concerts" asp-action="Index">MANAGE CONCERT</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-light" asp-controller="Venues" asp-action="Index">MANAGE VENUE</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-light" asp-controller="Artists" asp-action="Index">MANAGE ARTIST</a>
+                    </li>
+                }
+                @if (User.Identity.IsAuthenticated)
+                {
+                    <li class="nav-item">
+                        <a class="nav-link text-light" asp-controller="Tickets" asp-action="MyTickets">MY TICKETS</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-light" asp-controller="Concerts" asp-action="Index">CONCERTS</a>
+                    </li>
+                }
+            </ul>
+            <div class="d-flex">
+                <partial name="_LoginPartial" />
+            </div>
+        </div>
+    </div>
+</nav>

@@ -1,0 +1,93 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - ConcertBooking.WebHost</title>
+    <link rel="stylesheet" href="~/css/quartz.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/ConcertBooking.WebHost.styles.css" asp-append-version="true" />
+    <style>
+        /* Dark themed gradient background */
+        body {
+            background: linear-gradient(135deg, #1a1a2e, #16213e, #0f3460, #53354a);
+            color: #ffffff;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* Footer specific styles */
+        footer {
+            background-color: #212529;
+            color: #ffffff;
+            padding-top: 1.5rem;
+            margin-top: auto;
+        }
+
+        /* Ensure links stand out */
+        a {
+            color: #ffffff;
+        }
+
+            a:hover {
+                color: #ffcc00;
+                text-decoration: none;
+            }
+    </style>
+</head>
+<body>
+
+    <partial name="_HeaderNav" />
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer>
+        <div class="container">
+            <div class="row">
+                <!-- Copyright and Privacy -->
+                <div class="col-md-4" style="margin-bottom: 1.5rem;">
+                    <p style="margin-bottom: 0.5rem;">&copy; 2024 ConcertHub. All rights reserved.</p>
+                    <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy Policy</a>
+                </div>
+
+                <!-- Social Media Links -->
+                <div class="col-md-4" style="margin-bottom: 1.5rem;">
+                    <h5 style="margin-bottom: 1.25rem;">Follow Us</h5>
+                    <a href="#">
+                        <i class="fab fa-facebook-f" style="margin-right: 0.5rem;"></i> Facebook
+                    </a><br>
+                    <a href="#">
+                        <i class="fab fa-twitter" style="margin-right: 0.5rem;"></i> Twitter
+                    </a><br>
+                    <a href="#">
+                        <i class="fab fa-instagram" style="margin-right: 0.5rem;"></i> Instagram
+                    </a><br>
+                    <a href="#">
+                        <i class="fab fa-linkedin-in" style="margin-right: 0.5rem;"></i> LinkedIn
+                    </a>
+                </div>
+
+                <!-- Quick Links -->
+                <div class="col-md-4" style="margin-bottom: 1.5rem;">
+                    <h5 style="margin-bottom: 1.25rem;">Quick Links</h5>
+                    <a href="https://goo.gl/maps/abcd123" target="_blank" style="display: block; margin-bottom: 0.5rem;">
+                        <i class="fas fa-map-marker-alt" style="margin-right: 0.5rem;"></i> Navigate to Venue
+                    </a>
+                    <a href="/feedback" style="display: block;">
+                        <i class="fas fa-comment-alt" style="margin-right: 0.5rem;"></i> Give Feedback
+                    </a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

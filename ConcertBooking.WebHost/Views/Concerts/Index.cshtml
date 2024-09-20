@@ -1,0 +1,93 @@
+﻿@model ConcertBooking.WebHost.ViewModels.PagedConcertViewModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Concert List</h1>
+<div class="row">
+    <div class="col-8">
+        <p>
+            @if (User.IsInRole("Admin"))
+            {
+                <a asp-action="Create" class="btn btn-info">Create New</a>
+            }
+            
+        </p>
+    </div>
+    <div class="col-4">
+        <form class="d-flex" asp-action="Index" method="post">
+            <input class="form-control me-sm-2" type="search" placeholder="Search" name="searchText" value="@ViewData["filterData"]" />
+            <button class="btn btn-secondary my-2 my-sm-0" type="submit" value="Search">Search</button>
+        </form>
+    </div>
+</div>
+
+<p>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                <a asp-route-sortOrder="@ViewData["IdSort"]">Id</a>
+            </th>
+            <th>
+                <a asp-route-sortOrder="@ViewData["NameSort"]">Name</a>
+            </th>
+            <th>
+                DateTime
+            </th>
+            <th>
+                VenueName
+            </th>
+            <th>
+                ArtistName
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Concerts)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DateTime)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.VenueName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ArtistName)
+                </td>
+                <td>
+                    @if (User.IsInRole("Admin"))
+                    {
+                        @Html.ActionLink("Edit", "Edit", new { id = item.Id });
+                        @Html.ActionLink("Delete", "Delete", new { id = item.Id });
+                        @Html.ActionLink("GetTickets", "GetTickets", new { id = item.Id }) ;
+                    
+
+                    }
+                   @*   <p class="btn btn-primary">
+                         @Html.ActionLink("ShowBooked Tickets", "GetUserTickets", new { id = item.Id })
+                     </p> *@
+                     <a asp-controller="Home" asp-action="AvailabeTickets" asp-route-id="@item.Id" class="btn btn-warning">AvailableTickets</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@{
+    var previous = Model.PageInfo.HasPrevious ? "" : "disabled";
+    var next = Model.PageInfo.HasNext ? "" : "disabled";
+}
+
+<a asp-route-sortOrder="@ViewData["SortFilter"]" asp-route-FilterText="@ViewData["filterData"]" class="btn btn-info @previous" asp-route-pageNumber="@(Model.PageInfo.PageNumber - 1)">Previous</a>
+<a asp-route-sortOrder="@ViewData["SortFilter"]" asp-route-FilterText="@ViewData["filterData"]" class="btn btn-info @next" asp-route-pageNumber="@(Model.PageInfo.PageNumber + 1)">Next</a>

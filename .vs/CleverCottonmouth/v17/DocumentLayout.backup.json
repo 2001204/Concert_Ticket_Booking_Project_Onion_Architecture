@@ -1,0 +1,1418 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\tryproject\\Concert-Booking-System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\controllers\\concertscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\controllers\\concertscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\controllers\\artistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\controllers\\artistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\areas\\identity\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\areas\\identity\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\areas\\identity\\pages\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\areas\\identity\\pages\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\views\\tickets\\mytickets.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\views\\tickets\\mytickets.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\views\\shared\\_headernav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\views\\shared\\_headernav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\views\\home\\availabetickets.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\views\\home\\availabetickets.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\controllers\\venuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\controllers\\venuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\concertbooking.webhost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\concertbooking.webhost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\migrations\\20240814142905_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\migrations\\20240814142905_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\migrations\\20231216150329_booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\migrations\\20231216150329_booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\migrations\\20231216070856_addaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\migrations\\20231216070856_addaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\migrations\\20231216055117_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\migrations\\20231216055117_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\migrations\\20231214083745_addticketbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\migrations\\20231214083745_addticketbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\migrations\\20231211070712_addimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\migrations\\20231211070712_addimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\migrations\\20231209112615_addconcertbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\migrations\\20231209112615_addconcertbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\viewmodels\\homepageviewmodels\\homeconcertdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\viewmodels\\homepageviewmodels\\homeconcertdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\viewmodels\\homepageviewmodels\\homeconcertviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\viewmodels\\homepageviewmodels\\homeconcertviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\utility\\pageinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\utility\\pageinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\wwwroot\\css\\quartz.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\wwwroot\\css\\quartz.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1DF7E9-7A6E-4CBF-B5D5-B46C5B4B55F9}|ConcertBooking.Entities\\ConcertBooking.Entities.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1DF7E9-7A6E-4CBF-B5D5-B46C5B4B55F9}|ConcertBooking.Entities\\ConcertBooking.Entities.csproj|solutionrelative:concertbooking.entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\views\\artists\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\views\\artists\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4DBDDE2-2790-477A-8A63-327F8E3260BF}|ConcertBooking.Infrastructure\\ConcertBooking.Infrastructure.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.infrastructure\\globalconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4DBDDE2-2790-477A-8A63-327F8E3260BF}|ConcertBooking.Infrastructure\\ConcertBooking.Infrastructure.csproj|solutionrelative:concertbooking.infrastructure\\globalconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0E4AC4-6EC2-4AFA-8164-9D9FC52954E4}|ConcertBooking.Repositories\\ConcertBooking.Repositories.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.repositories\\implementations\\bookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0E4AC4-6EC2-4AFA-8164-9D9FC52954E4}|ConcertBooking.Repositories\\ConcertBooking.Repositories.csproj|solutionrelative:concertbooking.repositories\\implementations\\bookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0E4AC4-6EC2-4AFA-8164-9D9FC52954E4}|ConcertBooking.Repositories\\ConcertBooking.Repositories.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.repositories\\interfaces\\ibookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0E4AC4-6EC2-4AFA-8164-9D9FC52954E4}|ConcertBooking.Repositories\\ConcertBooking.Repositories.csproj|solutionrelative:concertbooking.repositories\\interfaces\\ibookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\views\\concerts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\views\\concerts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\views\\concerts\\getusertickets.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\views\\concerts\\getusertickets.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0E4AC4-6EC2-4AFA-8164-9D9FC52954E4}|ConcertBooking.Repositories\\ConcertBooking.Repositories.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.repositories\\interfaces\\iconcertrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0E4AC4-6EC2-4AFA-8164-9D9FC52954E4}|ConcertBooking.Repositories\\ConcertBooking.Repositories.csproj|solutionrelative:concertbooking.repositories\\interfaces\\iconcertrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SHRIKANT MANE\\AppData\\Local\\SourceServer\\f11eb74c97d47d6add7bc0734df142f4972661f0eb2e08ed7349e0a131365e6e\\ConcertBooking.Repositories\\Implementations\\DbInitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\views\\concerts\\gettickets.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\views\\concerts\\gettickets.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\viewmodels\\editconcertviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\viewmodels\\editconcertviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\viewmodels\\homepageviewmodels\\availableticketviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\viewmodels\\homepageviewmodels\\availableticketviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\viewmodels\\ticketsviewmodels\\ticketviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\viewmodels\\ticketsviewmodels\\ticketviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\viewmodels\\ticketsviewmodels\\bookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\viewmodels\\ticketsviewmodels\\bookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ConcertQuestDb/True/SqlTable/dbo.Tickets.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ConcertQuestDb/True/SqlTable/dbo.Bookings.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ConcertQuestDb/True/SqlTable/dbo.Concerts.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\tryproject\\Concert-Booking-System\\SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ConcertQuestDb/True/SqlTable/dbo.AspNetUserRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ConcertQuestDb/True/SqlTable/dbo.AspNetRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\tryproject\\Concert-Booking-System\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ConcertQuestDb/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0E4AC4-6EC2-4AFA-8164-9D9FC52954E4}|ConcertBooking.Repositories\\ConcertBooking.Repositories.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.repositories\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0E4AC4-6EC2-4AFA-8164-9D9FC52954E4}|ConcertBooking.Repositories\\ConcertBooking.Repositories.csproj|solutionrelative:concertbooking.repositories\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0E4AC4-6EC2-4AFA-8164-9D9FC52954E4}|ConcertBooking.Repositories\\ConcertBooking.Repositories.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.repositories\\implementations\\artistrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0E4AC4-6EC2-4AFA-8164-9D9FC52954E4}|ConcertBooking.Repositories\\ConcertBooking.Repositories.csproj|solutionrelative:concertbooking.repositories\\implementations\\artistrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1DF7E9-7A6E-4CBF-B5D5-B46C5B4B55F9}|ConcertBooking.Entities\\ConcertBooking.Entities.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.entities\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1DF7E9-7A6E-4CBF-B5D5-B46C5B4B55F9}|ConcertBooking.Entities\\ConcertBooking.Entities.csproj|solutionrelative:concertbooking.entities\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1DF7E9-7A6E-4CBF-B5D5-B46C5B4B55F9}|ConcertBooking.Entities\\ConcertBooking.Entities.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1DF7E9-7A6E-4CBF-B5D5-B46C5B4B55F9}|ConcertBooking.Entities\\ConcertBooking.Entities.csproj|solutionrelative:concertbooking.entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1DF7E9-7A6E-4CBF-B5D5-B46C5B4B55F9}|ConcertBooking.Entities\\ConcertBooking.Entities.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.entities\\concert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1DF7E9-7A6E-4CBF-B5D5-B46C5B4B55F9}|ConcertBooking.Entities\\ConcertBooking.Entities.csproj|solutionrelative:concertbooking.entities\\concert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1DF7E9-7A6E-4CBF-B5D5-B46C5B4B55F9}|ConcertBooking.Entities\\ConcertBooking.Entities.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.entities\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1DF7E9-7A6E-4CBF-B5D5-B46C5B4B55F9}|ConcertBooking.Entities\\ConcertBooking.Entities.csproj|solutionrelative:concertbooking.entities\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1DF7E9-7A6E-4CBF-B5D5-B46C5B4B55F9}|ConcertBooking.Entities\\ConcertBooking.Entities.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1DF7E9-7A6E-4CBF-B5D5-B46C5B4B55F9}|ConcertBooking.Entities\\ConcertBooking.Entities.csproj|solutionrelative:concertbooking.entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SHRIKANT MANE\\AppData\\Local\\SourceServer\\a9b87833c9250190979cc00af39f73df44b2f02678c0c338c5658106f69b6252\\ConcertBooking.Repositories\\Implementations\\EmailSender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SHRIKANT MANE\\AppData\\Local\\SourceServer\\63ba2ae014d930c0489cf98d11cd2ca3f39d6e3f3d6d2f483c30f4e9320862b9\\ConcertBooking.Repositories\\Implementations\\ConcertRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SHRIKANT MANE\\AppData\\Local\\SourceServer\\c29eec5118090ab903ab6dcef230abbe9ad95fb21bbc9f16c2ba4f50d81d388a\\ConcertBooking.Repositories\\Implementations\\BookingRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SHRIKANT MANE\\AppData\\Local\\SourceServer\\c045ce740974489e75b7780c30857b8fa2d4d4d65e853ae290f931a773545087\\ConcertBooking.Repositories\\Implementations\\ArtistRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SHRIKANT MANE\\AppData\\Local\\SourceServer\\342a2fc69a7a86f0833c5725f5788dd34a131d80145d804b78fade71b6758a56\\ConcertBooking.Entities\\Venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SHRIKANT MANE\\AppData\\Local\\SourceServer\\a3064db758392c13dd4c5a6a43776fd2d3a8e6f6d100fea70c1a50828cef1ce0\\ConcertBooking.Entities\\Ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SHRIKANT MANE\\AppData\\Local\\SourceServer\\f20eac635f8ee135ca4bb70c889fe8bc7d583548568ffba039da3b86b0bc298b\\ConcertBooking.Entities\\Concert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SHRIKANT MANE\\AppData\\Local\\SourceServer\\2c42c8500e0e6ca511868c234b8b8d9472360f554d116c31d08ca3cbb900d468\\ConcertBooking.Entities\\Booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SHRIKANT MANE\\AppData\\Local\\SourceServer\\40a6d43d57f586df2079d3a8cc1cfb069b40f7c5b0c7e584f744a8cf1ddee8dd\\ConcertBooking.Entities\\Artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SHRIKANT MANE\\AppData\\Local\\SourceServer\\156b9188e86dd57bf7a818b2f375c5bf4a7036c6b4ab2310a7d72e2a7798d47e\\ConcertBooking.Entities\\ApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0E4AC4-6EC2-4AFA-8164-9D9FC52954E4}|ConcertBooking.Repositories\\ConcertBooking.Repositories.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.repositories\\concertbooking.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BC0E4AC4-6EC2-4AFA-8164-9D9FC52954E4}|ConcertBooking.Repositories\\ConcertBooking.Repositories.csproj|solutionrelative:concertbooking.repositories\\concertbooking.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1DF7E9-7A6E-4CBF-B5D5-B46C5B4B55F9}|ConcertBooking.Entities\\ConcertBooking.Entities.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.entities\\concertbooking.entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4F1DF7E9-7A6E-4CBF-B5D5-B46C5B4B55F9}|ConcertBooking.Entities\\ConcertBooking.Entities.csproj|solutionrelative:concertbooking.entities\\concertbooking.entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\viewmodels\\editartistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\viewmodels\\editartistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\viewmodels\\createvenueviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\viewmodels\\createvenueviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\viewmodels\\createconcertviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\viewmodels\\createconcertviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\viewmodels\\createartistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\viewmodels\\createartistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\viewmodels\\concertviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\viewmodels\\concertviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\viewmodels\\artistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\viewmodels\\artistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4DBDDE2-2790-477A-8A63-327F8E3260BF}|ConcertBooking.Infrastructure\\ConcertBooking.Infrastructure.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.infrastructure\\concertbooking.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B4DBDDE2-2790-477A-8A63-327F8E3260BF}|ConcertBooking.Infrastructure\\ConcertBooking.Infrastructure.csproj|solutionrelative:concertbooking.infrastructure\\concertbooking.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0E4AC4-6EC2-4AFA-8164-9D9FC52954E4}|ConcertBooking.Repositories\\ConcertBooking.Repositories.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.repositories\\interfaces\\iartistrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0E4AC4-6EC2-4AFA-8164-9D9FC52954E4}|ConcertBooking.Repositories\\ConcertBooking.Repositories.csproj|solutionrelative:concertbooking.repositories\\interfaces\\iartistrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\wwwroot\\artistimage\\ff2a0354-62a0-4bdf-93e4-c59473627e7d.jpeg||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\wwwroot\\artistimage\\ff2a0354-62a0-4bdf-93e4-c59473627e7d.jpeg||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\views\\artists\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\views\\artists\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|d:\\tryproject\\concert-booking-system\\concertbooking.webhost\\views\\artists\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C1B4ABB-F0D8-4161-A6ED-163FD59B8736}|ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj|solutionrelative:concertbooking.webhost\\views\\artists\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.Entities\\Booking.cs",
+              "RelativeDocumentMoniker": "ConcertBooking.Entities\\Booking.cs",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.Entities\\Booking.cs",
+              "RelativeToolTip": "ConcertBooking.Entities\\Booking.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAD4vwsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T18:24:41.31Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyTickets.cshtml",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Views\\Tickets\\MyTickets.cshtml",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\Views\\Tickets\\MyTickets.cshtml",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Views\\Tickets\\MyTickets.cshtml",
+              "RelativeToolTip": "ConcertBooking.WebHost\\Views\\Tickets\\MyTickets.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T05:06:39.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ConcertBooking.WebHost\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:40:44.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ConcertBooking.WebHost\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T07:07:45.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArtistsController.cs",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Controllers\\ArtistsController.cs",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\Controllers\\ArtistsController.cs",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Controllers\\ArtistsController.cs",
+              "RelativeToolTip": "ConcertBooking.WebHost\\Controllers\\ArtistsController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAiwEYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:33:06.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\appsettings.json",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\appsettings.json",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\appsettings.json",
+              "RelativeToolTip": "ConcertBooking.WebHost\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-14T14:18:00.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConcertsController.cs",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Controllers\\ConcertsController.cs",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\Controllers\\ConcertsController.cs",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Controllers\\ConcertsController.cs",
+              "RelativeToolTip": "ConcertBooking.WebHost\\Controllers\\ConcertsController.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAkwIwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:40:25.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "ConcertBooking.WebHost\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T06:36:18.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Areas\\Identity\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\Areas\\Identity\\Pages\\Error.cshtml",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Areas\\Identity\\Pages\\Error.cshtml",
+              "RelativeToolTip": "ConcertBooking.WebHost\\Areas\\Identity\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T06:37:35.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Program.cs",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\Program.cs",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Program.cs",
+              "RelativeToolTip": "ConcertBooking.WebHost\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T18:26:16.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\Controllers\\TicketsController.cs",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "ConcertBooking.WebHost\\Controllers\\TicketsController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:40:44.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AvailabeTickets.cshtml",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Views\\Home\\AvailabeTickets.cshtml",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\Views\\Home\\AvailabeTickets.cshtml",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Views\\Home\\AvailabeTickets.cshtml",
+              "RelativeToolTip": "ConcertBooking.WebHost\\Views\\Home\\AvailabeTickets.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T04:57:44.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Views\\Home\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\Views\\Home\\AboutUs.cshtml",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Views\\Home\\AboutUs.cshtml",
+              "RelativeToolTip": "ConcertBooking.WebHost\\Views\\Home\\AboutUs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T11:33:06.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\Views\\Home\\Details.cshtml",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "ConcertBooking.WebHost\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T07:18:09.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ConcertBooking.WebHost\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T14:43:50.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_HeaderNav.cshtml",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Views\\Shared\\_HeaderNav.cshtml",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\Views\\Shared\\_HeaderNav.cshtml",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Views\\Shared\\_HeaderNav.cshtml",
+              "RelativeToolTip": "ConcertBooking.WebHost\\Views\\Shared\\_HeaderNav.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T04:00:49.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ConcertBooking.WebHost.csproj",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj",
+              "RelativeToolTip": "ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-14T14:32:16.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "ConcertBooking.WebHost\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T06:50:04.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ConcertBooking.WebHost\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T11:01:43.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VenuesController.cs",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Controllers\\VenuesController.cs",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\Controllers\\VenuesController.cs",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Controllers\\VenuesController.cs",
+              "RelativeToolTip": "ConcertBooking.WebHost\\Controllers\\VenuesController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAD4vz0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:41:04.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ConcertBooking.WebHost\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAOYBAAAAAAAAAAAAAOYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T05:45:39.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240814142905_InitialCreate.cs",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Migrations\\20240814142905_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\Migrations\\20240814142905_InitialCreate.cs",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Migrations\\20240814142905_InitialCreate.cs",
+              "RelativeToolTip": "ConcertBooking.WebHost\\Migrations\\20240814142905_InitialCreate.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:29:06.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20231216150329_Booking.cs",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Migrations\\20231216150329_Booking.cs",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\Migrations\\20231216150329_Booking.cs",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Migrations\\20231216150329_Booking.cs",
+              "RelativeToolTip": "ConcertBooking.WebHost\\Migrations\\20231216150329_Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T05:45:34.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20231216070856_AddAddress.cs",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Migrations\\20231216070856_AddAddress.cs",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\Migrations\\20231216070856_AddAddress.cs",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Migrations\\20231216070856_AddAddress.cs",
+              "RelativeToolTip": "ConcertBooking.WebHost\\Migrations\\20231216070856_AddAddress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T05:45:32.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20231216055117_AddIdentity.cs",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Migrations\\20231216055117_AddIdentity.cs",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\Migrations\\20231216055117_AddIdentity.cs",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Migrations\\20231216055117_AddIdentity.cs",
+              "RelativeToolTip": "ConcertBooking.WebHost\\Migrations\\20231216055117_AddIdentity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T05:45:30.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20231214083745_addTicketBooking.cs",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Migrations\\20231214083745_addTicketBooking.cs",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\Migrations\\20231214083745_addTicketBooking.cs",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Migrations\\20231214083745_addTicketBooking.cs",
+              "RelativeToolTip": "ConcertBooking.WebHost\\Migrations\\20231214083745_addTicketBooking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T18:22:36.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20231211070712_AddImage.cs",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Migrations\\20231211070712_AddImage.cs",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\Migrations\\20231211070712_AddImage.cs",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Migrations\\20231211070712_AddImage.cs",
+              "RelativeToolTip": "ConcertBooking.WebHost\\Migrations\\20231211070712_AddImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T18:22:34.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20231209112615_addConcertBooking.cs",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Migrations\\20231209112615_addConcertBooking.cs",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\Migrations\\20231209112615_addConcertBooking.cs",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Migrations\\20231209112615_addConcertBooking.cs",
+              "RelativeToolTip": "ConcertBooking.WebHost\\Migrations\\20231209112615_addConcertBooking.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T18:22:12.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "ConcertBooking.WebHost\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-16T18:09:34.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ConcertBooking.WebHost\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T11:01:40.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HomeConcertDetailsViewModel.cs",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\ViewModels\\HomePageViewModels\\HomeConcertDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\ViewModels\\HomePageViewModels\\HomeConcertDetailsViewModel.cs",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\ViewModels\\HomePageViewModels\\HomeConcertDetailsViewModel.cs",
+              "RelativeToolTip": "ConcertBooking.WebHost\\ViewModels\\HomePageViewModels\\HomeConcertDetailsViewModel.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:39:20.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HomeConcertViewModel.cs",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\ViewModels\\HomePageViewModels\\HomeConcertViewModel.cs",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\ViewModels\\HomePageViewModels\\HomeConcertViewModel.cs",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\ViewModels\\HomePageViewModels\\HomeConcertViewModel.cs",
+              "RelativeToolTip": "ConcertBooking.WebHost\\ViewModels\\HomePageViewModels\\HomeConcertViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T07:41:42.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PageInfo.cs",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Utility\\PageInfo.cs",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\Utility\\PageInfo.cs",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Utility\\PageInfo.cs",
+              "RelativeToolTip": "ConcertBooking.WebHost\\Utility\\PageInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T05:46:10.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "quartz.css",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\css\\quartz.css",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\wwwroot\\css\\quartz.css",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\css\\quartz.css",
+              "RelativeToolTip": "ConcertBooking.WebHost\\wwwroot\\css\\quartz.css",
+              "ViewState": "AgIAAPoDAAAAAAAAAAAAADAEAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-16T10:54:04.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ConcertBooking.WebHost\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAUwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-16T10:35:51.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Views\\Artists\\Index.cshtml",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\Views\\Artists\\Index.cshtml",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Views\\Artists\\Index.cshtml",
+              "RelativeToolTip": "ConcertBooking.WebHost\\Views\\Artists\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T10:34:33.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IBookingRepo.cs",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.Repositories\\Interfaces\\IBookingRepo.cs",
+              "RelativeDocumentMoniker": "ConcertBooking.Repositories\\Interfaces\\IBookingRepo.cs",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.Repositories\\Interfaces\\IBookingRepo.cs",
+              "RelativeToolTip": "ConcertBooking.Repositories\\Interfaces\\IBookingRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T05:44:20.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BookingRepo.cs",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.Repositories\\Implementations\\BookingRepo.cs",
+              "RelativeDocumentMoniker": "ConcertBooking.Repositories\\Implementations\\BookingRepo.cs",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.Repositories\\Implementations\\BookingRepo.cs",
+              "RelativeToolTip": "ConcertBooking.Repositories\\Implementations\\BookingRepo.cs",
+              "ViewState": "AgIAAA4AAACAMzMzM7MSwAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T18:25:26.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GlobalConfiguration.cs",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.Infrastructure\\GlobalConfiguration.cs",
+              "RelativeDocumentMoniker": "ConcertBooking.Infrastructure\\GlobalConfiguration.cs",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.Infrastructure\\GlobalConfiguration.cs",
+              "RelativeToolTip": "ConcertBooking.Infrastructure\\GlobalConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T20:13:43.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "GetUserTickets.cshtml",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Views\\Concerts\\GetUserTickets.cshtml",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\Views\\Concerts\\GetUserTickets.cshtml",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Views\\Concerts\\GetUserTickets.cshtml",
+              "RelativeToolTip": "ConcertBooking.WebHost\\Views\\Concerts\\GetUserTickets.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T05:59:35.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IConcertRepo.cs",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.Repositories\\Interfaces\\IConcertRepo.cs",
+              "RelativeDocumentMoniker": "ConcertBooking.Repositories\\Interfaces\\IConcertRepo.cs",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.Repositories\\Interfaces\\IConcertRepo.cs",
+              "RelativeToolTip": "ConcertBooking.Repositories\\Interfaces\\IConcertRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T05:42:00.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Views\\Concerts\\Index.cshtml",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\Views\\Concerts\\Index.cshtml",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Views\\Concerts\\Index.cshtml",
+              "RelativeToolTip": "ConcertBooking.WebHost\\Views\\Concerts\\Index.cshtml",
+              "ViewState": "AgIAAEAAAAAAAAAAAAApwE4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T04:58:37.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DbInitial.cs",
+              "DocumentMoniker": "C:\\Users\\SHRIKANT MANE\\AppData\\Local\\SourceServer\\f11eb74c97d47d6add7bc0734df142f4972661f0eb2e08ed7349e0a131365e6e\\ConcertBooking.Repositories\\Implementations\\DbInitial.cs",
+              "ToolTip": "C:\\Users\\SHRIKANT MANE\\AppData\\Local\\SourceServer\\f11eb74c97d47d6add7bc0734df142f4972661f0eb2e08ed7349e0a131365e6e\\ConcertBooking.Repositories\\Implementations\\DbInitial.cs",
+              "ViewState": "AgIAABAAAACA/////38YwCMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T11:33:46.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "GetTickets.cshtml",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Views\\Concerts\\GetTickets.cshtml",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\Views\\Concerts\\GetTickets.cshtml",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Views\\Concerts\\GetTickets.cshtml",
+              "RelativeToolTip": "ConcertBooking.WebHost\\Views\\Concerts\\GetTickets.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T05:58:42.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "EditConcertViewModel.cs",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\ViewModels\\EditConcertViewModel.cs",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\ViewModels\\EditConcertViewModel.cs",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\ViewModels\\EditConcertViewModel.cs",
+              "RelativeToolTip": "ConcertBooking.WebHost\\ViewModels\\EditConcertViewModel.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T05:43:40.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AvailableTicketViewModel.cs",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\ViewModels\\HomePageViewModels\\AvailableTicketViewModel.cs",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\ViewModels\\HomePageViewModels\\AvailableTicketViewModel.cs",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\ViewModels\\HomePageViewModels\\AvailableTicketViewModel.cs",
+              "RelativeToolTip": "ConcertBooking.WebHost\\ViewModels\\HomePageViewModels\\AvailableTicketViewModel.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvw8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:39:07.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "TicketViewModel.cs",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\ViewModels\\TicketsViewModels\\TicketViewModel.cs",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\ViewModels\\TicketsViewModels\\TicketViewModel.cs",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\ViewModels\\TicketsViewModels\\TicketViewModel.cs",
+              "RelativeToolTip": "ConcertBooking.WebHost\\ViewModels\\TicketsViewModels\\TicketViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T07:42:12.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "BookingViewModel.cs",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\ViewModels\\TicketsViewModels\\BookingViewModel.cs",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\ViewModels\\TicketsViewModels\\BookingViewModel.cs",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\ViewModels\\TicketsViewModels\\BookingViewModel.cs",
+              "RelativeToolTip": "ConcertBooking.WebHost\\ViewModels\\TicketsViewModels\\BookingViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:48:32.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "dbo.Tickets.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ConcertQuestDb/True/SqlTable/dbo.Tickets.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ConcertQuestDb/True/SqlTable/dbo.Tickets.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-16T04:24:16.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "dbo.Bookings.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ConcertQuestDb/True/SqlTable/dbo.Bookings.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ConcertQuestDb/True/SqlTable/dbo.Bookings.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-16T04:39:38.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "dbo.Concerts.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ConcertQuestDb/True/SqlTable/dbo.Concerts.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ConcertQuestDb/True/SqlTable/dbo.Concerts.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-16T04:24:07.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "SQLQuery2.sql",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\SQLQuery2.sql",
+              "RelativeDocumentMoniker": "SQLQuery2.sql",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\SQLQuery2.sql",
+              "RelativeToolTip": "SQLQuery2.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-16T04:30:01.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "dbo.AspNetRoles.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ConcertQuestDb/True/SqlTable/dbo.AspNetRoles.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ConcertQuestDb/True/SqlTable/dbo.AspNetRoles.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-16T04:06:45.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "dbo.AspNetUserRoles.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ConcertQuestDb/True/SqlTable/dbo.AspNetUserRoles.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ConcertQuestDb/True/SqlTable/dbo.AspNetUserRoles.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-16T04:03:29.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQLQuery1.sql",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\SQLQuery1.sql",
+              "RelativeToolTip": "SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-16T04:12:33.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "dbo.AspNetUsers.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ConcertQuestDb/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ConcertQuestDb/True/SqlTable/dbo.AspNetUsers.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-16T03:52:39.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "ConcertBooking.WebHost\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T03:59:02.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ConcertBooking.WebHost\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T03:58:27.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Concert.cs",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.Entities\\Concert.cs",
+              "RelativeDocumentMoniker": "ConcertBooking.Entities\\Concert.cs",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.Entities\\Concert.cs",
+              "RelativeToolTip": "ConcertBooking.Entities\\Concert.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAEBUwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T18:24:51.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.Entities\\Ticket.cs",
+              "RelativeDocumentMoniker": "ConcertBooking.Entities\\Ticket.cs",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.Entities\\Ticket.cs",
+              "RelativeToolTip": "ConcertBooking.Entities\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T18:24:54.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Venue.cs",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.Entities\\Venue.cs",
+              "RelativeDocumentMoniker": "ConcertBooking.Entities\\Venue.cs",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.Entities\\Venue.cs",
+              "RelativeToolTip": "ConcertBooking.Entities\\Venue.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T18:24:58.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.Repositories\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ConcertBooking.Repositories\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.Repositories\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ConcertBooking.Repositories\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T08:46:03.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ArtistRepo.cs",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.Repositories\\Implementations\\ArtistRepo.cs",
+              "RelativeDocumentMoniker": "ConcertBooking.Repositories\\Implementations\\ArtistRepo.cs",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.Repositories\\Implementations\\ArtistRepo.cs",
+              "RelativeToolTip": "ConcertBooking.Repositories\\Implementations\\ArtistRepo.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T18:25:19.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.Entities\\Artist.cs",
+              "RelativeDocumentMoniker": "ConcertBooking.Entities\\Artist.cs",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.Entities\\Artist.cs",
+              "RelativeToolTip": "ConcertBooking.Entities\\Artist.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T18:24:45.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "ConcertBooking.Entities\\ApplicationUser.cs",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "ConcertBooking.Entities\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T18:24:33.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\SHRIKANT MANE\\AppData\\Local\\SourceServer\\a9b87833c9250190979cc00af39f73df44b2f02678c0c338c5658106f69b6252\\ConcertBooking.Repositories\\Implementations\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\SHRIKANT MANE\\AppData\\Local\\SourceServer\\a9b87833c9250190979cc00af39f73df44b2f02678c0c338c5658106f69b6252\\ConcertBooking.Repositories\\Implementations\\EmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T11:33:53.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ConcertRepo.cs",
+              "DocumentMoniker": "C:\\Users\\SHRIKANT MANE\\AppData\\Local\\SourceServer\\63ba2ae014d930c0489cf98d11cd2ca3f39d6e3f3d6d2f483c30f4e9320862b9\\ConcertBooking.Repositories\\Implementations\\ConcertRepo.cs",
+              "ToolTip": "C:\\Users\\SHRIKANT MANE\\AppData\\Local\\SourceServer\\63ba2ae014d930c0489cf98d11cd2ca3f39d6e3f3d6d2f483c30f4e9320862b9\\ConcertBooking.Repositories\\Implementations\\ConcertRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T11:33:44.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "BookingRepo.cs",
+              "DocumentMoniker": "C:\\Users\\SHRIKANT MANE\\AppData\\Local\\SourceServer\\c29eec5118090ab903ab6dcef230abbe9ad95fb21bbc9f16c2ba4f50d81d388a\\ConcertBooking.Repositories\\Implementations\\BookingRepo.cs",
+              "ToolTip": "C:\\Users\\SHRIKANT MANE\\AppData\\Local\\SourceServer\\c29eec5118090ab903ab6dcef230abbe9ad95fb21bbc9f16c2ba4f50d81d388a\\ConcertBooking.Repositories\\Implementations\\BookingRepo.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T11:33:35.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ArtistRepo.cs",
+              "DocumentMoniker": "C:\\Users\\SHRIKANT MANE\\AppData\\Local\\SourceServer\\c045ce740974489e75b7780c30857b8fa2d4d4d65e853ae290f931a773545087\\ConcertBooking.Repositories\\Implementations\\ArtistRepo.cs",
+              "ToolTip": "C:\\Users\\SHRIKANT MANE\\AppData\\Local\\SourceServer\\c045ce740974489e75b7780c30857b8fa2d4d4d65e853ae290f931a773545087\\ConcertBooking.Repositories\\Implementations\\ArtistRepo.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T11:33:31.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Venue.cs",
+              "DocumentMoniker": "C:\\Users\\SHRIKANT MANE\\AppData\\Local\\SourceServer\\342a2fc69a7a86f0833c5725f5788dd34a131d80145d804b78fade71b6758a56\\ConcertBooking.Entities\\Venue.cs",
+              "ToolTip": "C:\\Users\\SHRIKANT MANE\\AppData\\Local\\SourceServer\\342a2fc69a7a86f0833c5725f5788dd34a131d80145d804b78fade71b6758a56\\ConcertBooking.Entities\\Venue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T11:33:13.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\SHRIKANT MANE\\AppData\\Local\\SourceServer\\a3064db758392c13dd4c5a6a43776fd2d3a8e6f6d100fea70c1a50828cef1ce0\\ConcertBooking.Entities\\Ticket.cs",
+              "ToolTip": "C:\\Users\\SHRIKANT MANE\\AppData\\Local\\SourceServer\\a3064db758392c13dd4c5a6a43776fd2d3a8e6f6d100fea70c1a50828cef1ce0\\ConcertBooking.Entities\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T11:33:09.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Concert.cs",
+              "DocumentMoniker": "C:\\Users\\SHRIKANT MANE\\AppData\\Local\\SourceServer\\f20eac635f8ee135ca4bb70c889fe8bc7d583548568ffba039da3b86b0bc298b\\ConcertBooking.Entities\\Concert.cs",
+              "ToolTip": "C:\\Users\\SHRIKANT MANE\\AppData\\Local\\SourceServer\\f20eac635f8ee135ca4bb70c889fe8bc7d583548568ffba039da3b86b0bc298b\\ConcertBooking.Entities\\Concert.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T11:33:05.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\SHRIKANT MANE\\AppData\\Local\\SourceServer\\2c42c8500e0e6ca511868c234b8b8d9472360f554d116c31d08ca3cbb900d468\\ConcertBooking.Entities\\Booking.cs",
+              "ToolTip": "C:\\Users\\SHRIKANT MANE\\AppData\\Local\\SourceServer\\2c42c8500e0e6ca511868c234b8b8d9472360f554d116c31d08ca3cbb900d468\\ConcertBooking.Entities\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T11:33:02.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "C:\\Users\\SHRIKANT MANE\\AppData\\Local\\SourceServer\\40a6d43d57f586df2079d3a8cc1cfb069b40f7c5b0c7e584f744a8cf1ddee8dd\\ConcertBooking.Entities\\Artist.cs",
+              "ToolTip": "C:\\Users\\SHRIKANT MANE\\AppData\\Local\\SourceServer\\40a6d43d57f586df2079d3a8cc1cfb069b40f7c5b0c7e584f744a8cf1ddee8dd\\ConcertBooking.Entities\\Artist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T11:32:59.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\SHRIKANT MANE\\AppData\\Local\\SourceServer\\156b9188e86dd57bf7a818b2f375c5bf4a7036c6b4ab2310a7d72e2a7798d47e\\ConcertBooking.Entities\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\SHRIKANT MANE\\AppData\\Local\\SourceServer\\156b9188e86dd57bf7a818b2f375c5bf4a7036c6b4ab2310a7d72e2a7798d47e\\ConcertBooking.Entities\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T11:32:53.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "ConcertBooking.Entities.csproj",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.Entities\\ConcertBooking.Entities.csproj",
+              "RelativeDocumentMoniker": "ConcertBooking.Entities\\ConcertBooking.Entities.csproj",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.Entities\\ConcertBooking.Entities.csproj",
+              "RelativeToolTip": "ConcertBooking.Entities\\ConcertBooking.Entities.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-14T14:31:18.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "ConcertBooking.Repositories.csproj",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.Repositories\\ConcertBooking.Repositories.csproj",
+              "RelativeDocumentMoniker": "ConcertBooking.Repositories\\ConcertBooking.Repositories.csproj",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.Repositories\\ConcertBooking.Repositories.csproj",
+              "RelativeToolTip": "ConcertBooking.Repositories\\ConcertBooking.Repositories.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-14T14:31:27.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "EditArtistViewModel.cs",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\ViewModels\\EditArtistViewModel.cs",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\ViewModels\\EditArtistViewModel.cs",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\ViewModels\\EditArtistViewModel.cs",
+              "RelativeToolTip": "ConcertBooking.WebHost\\ViewModels\\EditArtistViewModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T08:27:16.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\ViewModels\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\ViewModels\\DashboardViewModel.cs",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\ViewModels\\DashboardViewModel.cs",
+              "RelativeToolTip": "ConcertBooking.WebHost\\ViewModels\\DashboardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T05:43:32.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "CreateVenueViewModel.cs",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\ViewModels\\CreateVenueViewModel.cs",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\ViewModels\\CreateVenueViewModel.cs",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\ViewModels\\CreateVenueViewModel.cs",
+              "RelativeToolTip": "ConcertBooking.WebHost\\ViewModels\\CreateVenueViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T05:43:28.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "CreateConcertViewModel.cs",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\ViewModels\\CreateConcertViewModel.cs",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\ViewModels\\CreateConcertViewModel.cs",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\ViewModels\\CreateConcertViewModel.cs",
+              "RelativeToolTip": "ConcertBooking.WebHost\\ViewModels\\CreateConcertViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T08:26:33.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "CreateArtistViewModel.cs",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\ViewModels\\CreateArtistViewModel.cs",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\ViewModels\\CreateArtistViewModel.cs",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\ViewModels\\CreateArtistViewModel.cs",
+              "RelativeToolTip": "ConcertBooking.WebHost\\ViewModels\\CreateArtistViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T08:26:20.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "ConcertViewModel.cs",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\ViewModels\\ConcertViewModel.cs",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\ViewModels\\ConcertViewModel.cs",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\ViewModels\\ConcertViewModel.cs",
+              "RelativeToolTip": "ConcertBooking.WebHost\\ViewModels\\ConcertViewModel.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T05:43:18.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "ArtistViewModel.cs",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\ViewModels\\ArtistViewModel.cs",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\ViewModels\\ArtistViewModel.cs",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\ViewModels\\ArtistViewModel.cs",
+              "RelativeToolTip": "ConcertBooking.WebHost\\ViewModels\\ArtistViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T05:43:14.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "ConcertBooking.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.Infrastructure\\ConcertBooking.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "ConcertBooking.Infrastructure\\ConcertBooking.Infrastructure.csproj",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.Infrastructure\\ConcertBooking.Infrastructure.csproj",
+              "RelativeToolTip": "ConcertBooking.Infrastructure\\ConcertBooking.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-14T14:31:25.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\appsettings.Development.json",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\appsettings.Development.json",
+              "RelativeToolTip": "ConcertBooking.WebHost\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-15T06:00:54.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ConcertBooking.WebHost\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T05:41:46.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "IArtistRepo.cs",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.Repositories\\Interfaces\\IArtistRepo.cs",
+              "RelativeDocumentMoniker": "ConcertBooking.Repositories\\Interfaces\\IArtistRepo.cs",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.Repositories\\Interfaces\\IArtistRepo.cs",
+              "RelativeToolTip": "ConcertBooking.Repositories\\Interfaces\\IArtistRepo.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T05:35:20.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "ff2a0354-62a0-4bdf-93e4-c59473627e7d.jpeg",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\ff2a0354-62a0-4bdf-93e4-c59473627e7d.jpeg",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\wwwroot\\ArtistImage\\ff2a0354-62a0-4bdf-93e4-c59473627e7d.jpeg",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\ff2a0354-62a0-4bdf-93e4-c59473627e7d.jpeg",
+              "RelativeToolTip": "ConcertBooking.WebHost\\wwwroot\\ArtistImage\\ff2a0354-62a0-4bdf-93e4-c59473627e7d.jpeg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-08-15T05:35:09.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Views\\Artists\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\Views\\Artists\\Edit.cshtml",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Views\\Artists\\Edit.cshtml",
+              "RelativeToolTip": "ConcertBooking.WebHost\\Views\\Artists\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T14:43:41.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Views\\Artists\\Create.cshtml",
+              "RelativeDocumentMoniker": "ConcertBooking.WebHost\\Views\\Artists\\Create.cshtml",
+              "ToolTip": "D:\\tryproject\\Concert-Booking-System\\ConcertBooking.WebHost\\Views\\Artists\\Create.cshtml",
+              "RelativeToolTip": "ConcertBooking.WebHost\\Views\\Artists\\Create.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAIBJwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T14:43:29.298Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
