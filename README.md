@@ -1,1 +1,1 @@
-# Event_Management_System_Onion_Architecture
+# Concer_Ticket_Booking_project_Onion_Architecture
