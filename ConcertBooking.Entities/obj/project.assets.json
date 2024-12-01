@@ -1689,11 +1689,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.Entities\\ConcertBooking.Entities.csproj",
+      "projectUniqueName": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.Entities\\ConcertBooking.Entities.csproj",
       "projectName": "ConcertBooking.Entities",
-      "projectPath": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.Entities\\ConcertBooking.Entities.csproj",
+      "projectPath": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.Entities\\ConcertBooking.Entities.csproj",
       "packagesPath": "C:\\Users\\DIPAK\\.nuget\\packages\\",
-      "outputPath": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.Entities\\obj\\",
+      "outputPath": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DIPAK\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1748,20 +1748,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[7.0.16, 7.0.16]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[7.0.16, 7.0.16]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[7.0.16, 7.0.16]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

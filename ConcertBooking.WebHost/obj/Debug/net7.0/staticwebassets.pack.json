@@ -1,583 +1,591 @@
 {
   "Files": [
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ConcertBooking.WebHost.bundle.scp.css",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ConcertBooking.WebHost.bundle.scp.css",
       "PackagePath": "staticwebassets\\ConcertBooking.WebHost.bundle.scp.css"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\01fbb6a2-a598-46f5-a68d-c0fdcb7fc912.docx",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\01fbb6a2-a598-46f5-a68d-c0fdcb7fc912.docx",
       "PackagePath": "staticwebassets\\ArtistImage\\01fbb6a2-a598-46f5-a68d-c0fdcb7fc912.docx"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\074bcd08-8eac-406a-8167-aa383cb38fe2.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\074bcd08-8eac-406a-8167-aa383cb38fe2.jpg",
       "PackagePath": "staticwebassets\\ArtistImage\\074bcd08-8eac-406a-8167-aa383cb38fe2.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\0bdfc4d2-7b60-4a9f-8915-d7c616f43a00.jpeg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\0bdfc4d2-7b60-4a9f-8915-d7c616f43a00.jpeg",
       "PackagePath": "staticwebassets\\ArtistImage\\0bdfc4d2-7b60-4a9f-8915-d7c616f43a00.jpeg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\1b62b99d-7bba-49e8-b078-c85270c0a0a7.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\1b62b99d-7bba-49e8-b078-c85270c0a0a7.jpg",
       "PackagePath": "staticwebassets\\ArtistImage\\1b62b99d-7bba-49e8-b078-c85270c0a0a7.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\1f62fecb-d13e-4674-8dbd-b5fb6a5cca68.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\1f62fecb-d13e-4674-8dbd-b5fb6a5cca68.jpg",
       "PackagePath": "staticwebassets\\ArtistImage\\1f62fecb-d13e-4674-8dbd-b5fb6a5cca68.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\2a8e9f27-02c0-40e8-94f9-47600adf584b.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\2a8e9f27-02c0-40e8-94f9-47600adf584b.jpg",
       "PackagePath": "staticwebassets\\ArtistImage\\2a8e9f27-02c0-40e8-94f9-47600adf584b.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\2e23db0c-5a18-469b-9989-dd2a230a897c.jpeg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\2e23db0c-5a18-469b-9989-dd2a230a897c.jpeg",
       "PackagePath": "staticwebassets\\ArtistImage\\2e23db0c-5a18-469b-9989-dd2a230a897c.jpeg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\2e2cb6b2-18f6-4c9d-8409-74a72fb19d97.jpeg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\2e2cb6b2-18f6-4c9d-8409-74a72fb19d97.jpeg",
       "PackagePath": "staticwebassets\\ArtistImage\\2e2cb6b2-18f6-4c9d-8409-74a72fb19d97.jpeg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\2ee643ab-cd02-44af-b10e-2d1cf46e8d1c.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\2ee643ab-cd02-44af-b10e-2d1cf46e8d1c.jpg",
       "PackagePath": "staticwebassets\\ArtistImage\\2ee643ab-cd02-44af-b10e-2d1cf46e8d1c.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\368ba262-23a4-4a31-b9b3-f431ef859831.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\368ba262-23a4-4a31-b9b3-f431ef859831.jpg",
       "PackagePath": "staticwebassets\\ArtistImage\\368ba262-23a4-4a31-b9b3-f431ef859831.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\37591db3-7cd7-4d21-aa72-2951b29533ca.jpeg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\37591db3-7cd7-4d21-aa72-2951b29533ca.jpeg",
       "PackagePath": "staticwebassets\\ArtistImage\\37591db3-7cd7-4d21-aa72-2951b29533ca.jpeg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\38f84268-9bf3-442c-8ed3-beaabe99a8af.jpeg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\38f84268-9bf3-442c-8ed3-beaabe99a8af.jpeg",
       "PackagePath": "staticwebassets\\ArtistImage\\38f84268-9bf3-442c-8ed3-beaabe99a8af.jpeg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\4790a1b7-4fa9-400c-bd93-e4be6db2b79f.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\4790a1b7-4fa9-400c-bd93-e4be6db2b79f.jpg",
       "PackagePath": "staticwebassets\\ArtistImage\\4790a1b7-4fa9-400c-bd93-e4be6db2b79f.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\48b5f23f-c204-4a50-9c05-d011be843850.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\48b5f23f-c204-4a50-9c05-d011be843850.jpg",
       "PackagePath": "staticwebassets\\ArtistImage\\48b5f23f-c204-4a50-9c05-d011be843850.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\4aa9fc0e-14c1-48df-aa6e-2085fcad2161.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\4aa9fc0e-14c1-48df-aa6e-2085fcad2161.jpg",
       "PackagePath": "staticwebassets\\ArtistImage\\4aa9fc0e-14c1-48df-aa6e-2085fcad2161.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\4f0d79f0-ec76-4c50-8add-1400b3906074.jpeg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\4f0d79f0-ec76-4c50-8add-1400b3906074.jpeg",
       "PackagePath": "staticwebassets\\ArtistImage\\4f0d79f0-ec76-4c50-8add-1400b3906074.jpeg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\5b445e02-1d3f-4068-930c-84aaec8027ad.jpeg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\5b445e02-1d3f-4068-930c-84aaec8027ad.jpeg",
       "PackagePath": "staticwebassets\\ArtistImage\\5b445e02-1d3f-4068-930c-84aaec8027ad.jpeg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\619405e9-76a5-4b5e-8aff-88175e9cab11.jpeg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\619405e9-76a5-4b5e-8aff-88175e9cab11.jpeg",
       "PackagePath": "staticwebassets\\ArtistImage\\619405e9-76a5-4b5e-8aff-88175e9cab11.jpeg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\656ff8a8-ba77-4515-9b0f-81bf93d3c536.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\656ff8a8-ba77-4515-9b0f-81bf93d3c536.jpg",
       "PackagePath": "staticwebassets\\ArtistImage\\656ff8a8-ba77-4515-9b0f-81bf93d3c536.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\6951ff34-c906-44a6-98e3-fbbe6005034c.jpeg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\6951ff34-c906-44a6-98e3-fbbe6005034c.jpeg",
       "PackagePath": "staticwebassets\\ArtistImage\\6951ff34-c906-44a6-98e3-fbbe6005034c.jpeg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\706cba8c-2901-4829-b977-6955d96d871d.jpeg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\706cba8c-2901-4829-b977-6955d96d871d.jpeg",
       "PackagePath": "staticwebassets\\ArtistImage\\706cba8c-2901-4829-b977-6955d96d871d.jpeg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\7169cd91-9d86-43d0-a610-92a5768e188a.jpeg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\7169cd91-9d86-43d0-a610-92a5768e188a.jpeg",
       "PackagePath": "staticwebassets\\ArtistImage\\7169cd91-9d86-43d0-a610-92a5768e188a.jpeg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\72aad561-d404-4fad-b522-2321ecc63291.webp",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\72aad561-d404-4fad-b522-2321ecc63291.webp",
       "PackagePath": "staticwebassets\\ArtistImage\\72aad561-d404-4fad-b522-2321ecc63291.webp"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\75c6a070-0690-4574-b44d-80bd060ece5e.jpeg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\75c6a070-0690-4574-b44d-80bd060ece5e.jpeg",
       "PackagePath": "staticwebassets\\ArtistImage\\75c6a070-0690-4574-b44d-80bd060ece5e.jpeg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\847e3af9-b988-4922-bf42-d8203719434c.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\847e3af9-b988-4922-bf42-d8203719434c.jpg",
       "PackagePath": "staticwebassets\\ArtistImage\\847e3af9-b988-4922-bf42-d8203719434c.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\8a060038-ca2f-4187-8a83-404b202b5870.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\8a060038-ca2f-4187-8a83-404b202b5870.jpg",
       "PackagePath": "staticwebassets\\ArtistImage\\8a060038-ca2f-4187-8a83-404b202b5870.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\8adc12dd-5f7a-40d7-bae1-3917bbf15d3d.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\8adc12dd-5f7a-40d7-bae1-3917bbf15d3d.jpg",
       "PackagePath": "staticwebassets\\ArtistImage\\8adc12dd-5f7a-40d7-bae1-3917bbf15d3d.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\8baa434e-65ef-47cf-b29f-42a7654d179c.jpeg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\8baa434e-65ef-47cf-b29f-42a7654d179c.jpeg",
       "PackagePath": "staticwebassets\\ArtistImage\\8baa434e-65ef-47cf-b29f-42a7654d179c.jpeg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\96c07514-4d1d-40d5-afeb-f10ff5ba58d4.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\96c07514-4d1d-40d5-afeb-f10ff5ba58d4.jpg",
       "PackagePath": "staticwebassets\\ArtistImage\\96c07514-4d1d-40d5-afeb-f10ff5ba58d4.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\9984f712-ba94-47b6-97e4-cd9b5482905b.jpeg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\9984f712-ba94-47b6-97e4-cd9b5482905b.jpeg",
       "PackagePath": "staticwebassets\\ArtistImage\\9984f712-ba94-47b6-97e4-cd9b5482905b.jpeg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\a2480874-fff4-49fb-add8-1a37455f393c.jpeg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\a2480874-fff4-49fb-add8-1a37455f393c.jpeg",
       "PackagePath": "staticwebassets\\ArtistImage\\a2480874-fff4-49fb-add8-1a37455f393c.jpeg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\a2e6b513-448d-4b32-a327-fbafa6ec5abd.jpeg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\a2b6a77b-a8ed-45ce-862d-3c8a3749c943.png",
+      "PackagePath": "staticwebassets\\ArtistImage\\a2b6a77b-a8ed-45ce-862d-3c8a3749c943.png"
+    },
+    {
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\a2e6b513-448d-4b32-a327-fbafa6ec5abd.jpeg",
       "PackagePath": "staticwebassets\\ArtistImage\\a2e6b513-448d-4b32-a327-fbafa6ec5abd.jpeg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\abb6c5a1-39d8-460c-abe2-51402c3dfbc4.jpeg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\abb6c5a1-39d8-460c-abe2-51402c3dfbc4.jpeg",
       "PackagePath": "staticwebassets\\ArtistImage\\abb6c5a1-39d8-460c-abe2-51402c3dfbc4.jpeg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\afd4a481-1148-4fa3-a931-e02be2d01a90.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\afd4a481-1148-4fa3-a931-e02be2d01a90.jpg",
       "PackagePath": "staticwebassets\\ArtistImage\\afd4a481-1148-4fa3-a931-e02be2d01a90.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\b2fda93f-b343-42c2-a4a2-bbd22e0d7e00.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\b2fda93f-b343-42c2-a4a2-bbd22e0d7e00.jpg",
       "PackagePath": "staticwebassets\\ArtistImage\\b2fda93f-b343-42c2-a4a2-bbd22e0d7e00.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\ba4a4099-0e25-471b-bc7a-68ac8f3bdadd.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\ba4a4099-0e25-471b-bc7a-68ac8f3bdadd.jpg",
       "PackagePath": "staticwebassets\\ArtistImage\\ba4a4099-0e25-471b-bc7a-68ac8f3bdadd.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\c5611cbf-045b-4730-81e5-3e0163678f19.jpeg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\c5611cbf-045b-4730-81e5-3e0163678f19.jpeg",
       "PackagePath": "staticwebassets\\ArtistImage\\c5611cbf-045b-4730-81e5-3e0163678f19.jpeg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\cdc66907-dfac-440d-8532-b8121b3a517a.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\cdc66907-dfac-440d-8532-b8121b3a517a.jpg",
       "PackagePath": "staticwebassets\\ArtistImage\\cdc66907-dfac-440d-8532-b8121b3a517a.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\d7c99a45-b425-4b12-a89e-4ad4d0d1ac59.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\d7c99a45-b425-4b12-a89e-4ad4d0d1ac59.jpg",
       "PackagePath": "staticwebassets\\ArtistImage\\d7c99a45-b425-4b12-a89e-4ad4d0d1ac59.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\d97d2878-91c2-4067-93be-0a58282c5128.jpeg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\d97d2878-91c2-4067-93be-0a58282c5128.jpeg",
       "PackagePath": "staticwebassets\\ArtistImage\\d97d2878-91c2-4067-93be-0a58282c5128.jpeg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\db87528a-0a56-4cd3-a8be-5c052bc91141.jpeg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\db87528a-0a56-4cd3-a8be-5c052bc91141.jpeg",
       "PackagePath": "staticwebassets\\ArtistImage\\db87528a-0a56-4cd3-a8be-5c052bc91141.jpeg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\dbd87641-62fd-49e1-89ad-3b3282879a4b.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\dbd87641-62fd-49e1-89ad-3b3282879a4b.jpg",
       "PackagePath": "staticwebassets\\ArtistImage\\dbd87641-62fd-49e1-89ad-3b3282879a4b.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\ddabe73b-9fd3-43fb-a784-5c330c4f32fa.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\ddabe73b-9fd3-43fb-a784-5c330c4f32fa.jpg",
       "PackagePath": "staticwebassets\\ArtistImage\\ddabe73b-9fd3-43fb-a784-5c330c4f32fa.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\e6d26bb2-2789-467f-b433-66cd8093aabd.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\e6d26bb2-2789-467f-b433-66cd8093aabd.jpg",
       "PackagePath": "staticwebassets\\ArtistImage\\e6d26bb2-2789-467f-b433-66cd8093aabd.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\eccaad35-aec0-4a2b-88a7-3cd37a1934c1.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\eccaad35-aec0-4a2b-88a7-3cd37a1934c1.jpg",
       "PackagePath": "staticwebassets\\ArtistImage\\eccaad35-aec0-4a2b-88a7-3cd37a1934c1.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\f33a6d1e-fa47-4de9-a928-c48995389131.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\f33a6d1e-fa47-4de9-a928-c48995389131.jpg",
       "PackagePath": "staticwebassets\\ArtistImage\\f33a6d1e-fa47-4de9-a928-c48995389131.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\fbcddbc0-bcab-4fb0-847a-f63e4a6e0aff.jpeg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\fbcddbc0-bcab-4fb0-847a-f63e4a6e0aff.jpeg",
       "PackagePath": "staticwebassets\\ArtistImage\\fbcddbc0-bcab-4fb0-847a-f63e4a6e0aff.jpeg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\ff2a0354-62a0-4bdf-93e4-c59473627e7d.jpeg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\ff2a0354-62a0-4bdf-93e4-c59473627e7d.jpeg",
       "PackagePath": "staticwebassets\\ArtistImage\\ff2a0354-62a0-4bdf-93e4-c59473627e7d.jpeg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\077f5e6b-9b86-4328-9755-8ef37d9438fd.jpeg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\077f5e6b-9b86-4328-9755-8ef37d9438fd.jpeg",
       "PackagePath": "staticwebassets\\ConcertImage\\077f5e6b-9b86-4328-9755-8ef37d9438fd.jpeg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\1312605e-828b-49f0-85f5-75b8cdf9496a.jpeg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\1312605e-828b-49f0-85f5-75b8cdf9496a.jpeg",
       "PackagePath": "staticwebassets\\ConcertImage\\1312605e-828b-49f0-85f5-75b8cdf9496a.jpeg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\2446c84f-9013-45d4-8171-5bde40aa3c72.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\2446c84f-9013-45d4-8171-5bde40aa3c72.jpg",
       "PackagePath": "staticwebassets\\ConcertImage\\2446c84f-9013-45d4-8171-5bde40aa3c72.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\3cfdd11a-f81a-487b-aaaf-dcd7c517b595.jpeg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\3cfdd11a-f81a-487b-aaaf-dcd7c517b595.jpeg",
       "PackagePath": "staticwebassets\\ConcertImage\\3cfdd11a-f81a-487b-aaaf-dcd7c517b595.jpeg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\40e94947-2844-4631-b960-60cf65e512c2.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\40e94947-2844-4631-b960-60cf65e512c2.jpg",
       "PackagePath": "staticwebassets\\ConcertImage\\40e94947-2844-4631-b960-60cf65e512c2.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\443a7be5-d5cd-4403-ab94-4a1cc72da335.jpeg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\443a7be5-d5cd-4403-ab94-4a1cc72da335.jpeg",
       "PackagePath": "staticwebassets\\ConcertImage\\443a7be5-d5cd-4403-ab94-4a1cc72da335.jpeg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\48616d03-8f47-44d0-a8ef-a132995f7373.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\48616d03-8f47-44d0-a8ef-a132995f7373.jpg",
       "PackagePath": "staticwebassets\\ConcertImage\\48616d03-8f47-44d0-a8ef-a132995f7373.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\4bc3944e-c3d8-43bc-adc9-36a288a8f7d6.jpeg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\4bc3944e-c3d8-43bc-adc9-36a288a8f7d6.jpeg",
       "PackagePath": "staticwebassets\\ConcertImage\\4bc3944e-c3d8-43bc-adc9-36a288a8f7d6.jpeg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\5284a618-b388-4102-ad58-53ae9ab961c1.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\5284a618-b388-4102-ad58-53ae9ab961c1.jpg",
       "PackagePath": "staticwebassets\\ConcertImage\\5284a618-b388-4102-ad58-53ae9ab961c1.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\5c70e246-09e2-4981-b296-9d59687c0401.jpeg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\5c70e246-09e2-4981-b296-9d59687c0401.jpeg",
       "PackagePath": "staticwebassets\\ConcertImage\\5c70e246-09e2-4981-b296-9d59687c0401.jpeg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\612b6e5f-ec4b-4512-a43d-0f22ed305b95.jpeg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\612b6e5f-ec4b-4512-a43d-0f22ed305b95.jpeg",
       "PackagePath": "staticwebassets\\ConcertImage\\612b6e5f-ec4b-4512-a43d-0f22ed305b95.jpeg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\638e7e58-d83f-4e99-9775-3af86a4508d4.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\638e7e58-d83f-4e99-9775-3af86a4508d4.jpg",
       "PackagePath": "staticwebassets\\ConcertImage\\638e7e58-d83f-4e99-9775-3af86a4508d4.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\6c011a9b-23db-447e-bfcb-487dd2d9c9bd.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\6c011a9b-23db-447e-bfcb-487dd2d9c9bd.jpg",
       "PackagePath": "staticwebassets\\ConcertImage\\6c011a9b-23db-447e-bfcb-487dd2d9c9bd.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\708ec135-d3bd-429c-8c57-131c13332c57.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\708ec135-d3bd-429c-8c57-131c13332c57.jpg",
       "PackagePath": "staticwebassets\\ConcertImage\\708ec135-d3bd-429c-8c57-131c13332c57.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\7befe550-8edd-4a16-b9b0-b95af9699f03.jpeg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\7befe550-8edd-4a16-b9b0-b95af9699f03.jpeg",
       "PackagePath": "staticwebassets\\ConcertImage\\7befe550-8edd-4a16-b9b0-b95af9699f03.jpeg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\8c4ed8e5-de8f-42db-b0a3-7068c900cf14.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\848f92dd-9a98-43f0-9a53-84fa5efec12f.jpg",
+      "PackagePath": "staticwebassets\\ConcertImage\\848f92dd-9a98-43f0-9a53-84fa5efec12f.jpg"
+    },
+    {
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\8c4ed8e5-de8f-42db-b0a3-7068c900cf14.jpg",
       "PackagePath": "staticwebassets\\ConcertImage\\8c4ed8e5-de8f-42db-b0a3-7068c900cf14.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\960019cd-0075-411b-934c-c74ee8e1fdd9.jpeg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\960019cd-0075-411b-934c-c74ee8e1fdd9.jpeg",
       "PackagePath": "staticwebassets\\ConcertImage\\960019cd-0075-411b-934c-c74ee8e1fdd9.jpeg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\a592d627-d132-478f-895f-1e5a28d19291.jpeg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\a592d627-d132-478f-895f-1e5a28d19291.jpeg",
       "PackagePath": "staticwebassets\\ConcertImage\\a592d627-d132-478f-895f-1e5a28d19291.jpeg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\ad5d0b34-96a6-4c6f-b7ee-66d0c38d646d.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\ad5d0b34-96a6-4c6f-b7ee-66d0c38d646d.jpg",
       "PackagePath": "staticwebassets\\ConcertImage\\ad5d0b34-96a6-4c6f-b7ee-66d0c38d646d.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\b009dc22-159c-4e66-9860-c1b02c4fbb84.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\b009dc22-159c-4e66-9860-c1b02c4fbb84.jpg",
       "PackagePath": "staticwebassets\\ConcertImage\\b009dc22-159c-4e66-9860-c1b02c4fbb84.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\b72769c1-1ca4-4c67-a28e-01e485fb2b4f.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\b72769c1-1ca4-4c67-a28e-01e485fb2b4f.jpg",
       "PackagePath": "staticwebassets\\ConcertImage\\b72769c1-1ca4-4c67-a28e-01e485fb2b4f.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\cdcaff2c-1865-466c-a500-44f8f8b1ef78.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\cdcaff2c-1865-466c-a500-44f8f8b1ef78.jpg",
       "PackagePath": "staticwebassets\\ConcertImage\\cdcaff2c-1865-466c-a500-44f8f8b1ef78.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\d6dbeb42-d43d-463f-860d-77c4cbd81947.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\d6dbeb42-d43d-463f-860d-77c4cbd81947.jpg",
       "PackagePath": "staticwebassets\\ConcertImage\\d6dbeb42-d43d-463f-860d-77c4cbd81947.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\df7bb77a-5c32-4a44-b151-f9f6d2f83119.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\df7bb77a-5c32-4a44-b151-f9f6d2f83119.jpg",
       "PackagePath": "staticwebassets\\ConcertImage\\df7bb77a-5c32-4a44-b151-f9f6d2f83119.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\ea3cd67a-1e09-476c-8374-bc27f3d78c09.jpeg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\ea3cd67a-1e09-476c-8374-bc27f3d78c09.jpeg",
       "PackagePath": "staticwebassets\\ConcertImage\\ea3cd67a-1e09-476c-8374-bc27f3d78c09.jpeg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\ea7cc871-0d04-410c-9ce1-00ce14019728.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\ea7cc871-0d04-410c-9ce1-00ce14019728.jpg",
       "PackagePath": "staticwebassets\\ConcertImage\\ea7cc871-0d04-410c-9ce1-00ce14019728.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\ed1dd374-ff91-4095-8c7b-31ff0e2fd65f.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\ed1dd374-ff91-4095-8c7b-31ff0e2fd65f.jpg",
       "PackagePath": "staticwebassets\\ConcertImage\\ed1dd374-ff91-4095-8c7b-31ff0e2fd65f.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\fa92a4d7-f1d1-4afd-b7ef-9c7524e19fcb.jpeg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\fa92a4d7-f1d1-4afd-b7ef-9c7524e19fcb.jpeg",
       "PackagePath": "staticwebassets\\ConcertImage\\fa92a4d7-f1d1-4afd-b7ef-9c7524e19fcb.jpeg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\ffccafbe-05a1-417e-bd23-cc00195421c3.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\ffccafbe-05a1-417e-bd23-cc00195421c3.jpg",
       "PackagePath": "staticwebassets\\ConcertImage\\ffccafbe-05a1-417e-bd23-cc00195421c3.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\css\\concerthub.jpeg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\css\\concerthub.jpeg",
       "PackagePath": "staticwebassets\\css\\concerthub.jpeg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\css\\kajal.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\css\\kajal.jpg",
       "PackagePath": "staticwebassets\\css\\kajal.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\css\\mansi.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\css\\mansi.jpg",
       "PackagePath": "staticwebassets\\css\\mansi.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\css\\onkar.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\css\\onkar.jpg",
       "PackagePath": "staticwebassets\\css\\onkar.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\css\\quartz.css",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\css\\quartz.css",
       "PackagePath": "staticwebassets\\css\\quartz.css"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\css\\sakshi.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\css\\sakshi.jpg",
       "PackagePath": "staticwebassets\\css\\sakshi.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\css\\shrikant.jpg",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\css\\shrikant.jpg",
       "PackagePath": "staticwebassets\\css\\shrikant.jpg"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\css\\site.css",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\favicon.ico",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\js\\site.js",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

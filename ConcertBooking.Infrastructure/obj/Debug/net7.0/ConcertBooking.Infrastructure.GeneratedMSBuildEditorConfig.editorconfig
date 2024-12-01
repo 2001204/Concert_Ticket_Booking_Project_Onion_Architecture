@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ConcertBooking.Infrastructure
-build_property.ProjectDir = G:\Event Management Project Onion Architecture\Concert-Booking-System\ConcertBooking.Infrastructure\
+build_property.ProjectDir = G:\Concert Ticket Booking Project Onion Architecture\Concert-Booking-System\ConcertBooking.Infrastructure\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

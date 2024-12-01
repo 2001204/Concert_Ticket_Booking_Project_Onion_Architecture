@@ -11795,11 +11795,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj",
+      "projectUniqueName": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj",
       "projectName": "ConcertBooking.WebHost",
-      "projectPath": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj",
+      "projectPath": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj",
       "packagesPath": "C:\\Users\\DIPAK\\.nuget\\packages\\",
-      "outputPath": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\obj\\",
+      "outputPath": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DIPAK\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -11817,8 +11817,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.Repositories\\ConcertBooking.Repositories.csproj": {
-              "projectPath": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.Repositories\\ConcertBooking.Repositories.csproj"
+            "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.Repositories\\ConcertBooking.Repositories.csproj": {
+              "projectPath": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.Repositories\\ConcertBooking.Repositories.csproj"
             }
           }
         }
@@ -11876,24 +11876,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[7.0.16, 7.0.16]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[7.0.16, 7.0.16]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[7.0.16, 7.0.16]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[7.0.16, 7.0.16]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"

@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ConcertBooking.WebHost.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20231216150329_Booking")]
-    partial class Booking
+    [Migration("20240921085434_initial")]
+    partial class initial
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -143,11 +143,13 @@ namespace ConcertBooking.WebHost.Migrations
 
                     b.Property<string>("UserId")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("nvarchar(450)");
 
                     b.HasKey("BookingId");
 
                     b.HasIndex("ConcertId");
+
+                    b.HasIndex("UserId");
 
                     b.ToTable("Bookings");
                 });
@@ -377,7 +379,15 @@ namespace ConcertBooking.WebHost.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
+                    b.HasOne("ConcertBooking.Entities.ApplicationUser", "User")
+                        .WithMany()
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
                     b.Navigation("Concert");
+
+                    b.Navigation("User");
                 });
 
             modelBuilder.Entity("ConcertBooking.Entities.Concert", b =>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KKYec28AqEPv4n81/75OS+0uQJ7P/siriB9A9R5Ra1cVc2pjJVALPPaVxMmGpq48ma1quKUuc7CfXHrqOsmfEg==",
+  "dgSpecHash": "kHFuy8xV8suPPT5EjLthbBdeaS7RDvHnVvnUHqV2HMhsdapZ6Y2i0bEyVE+eMxlRDfhjD/MYtnWnqyzZU3H4Jg==",
   "success": true,
-  "projectFilePath": "G:\\Event Management Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj",
+  "projectFilePath": "G:\\Concert Ticket Booking Project Onion Architecture\\Concert-Booking-System\\ConcertBooking.WebHost\\ConcertBooking.WebHost.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DIPAK\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\DIPAK\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
@@ -236,11 +236,7 @@
     "C:\\Users\\DIPAK\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\DIPAK\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
     "C:\\Users\\DIPAK\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\DIPAK\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\DIPAK\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
-    "C:\\Users\\DIPAK\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
-    "C:\\Users\\DIPAK\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
-    "C:\\Users\\DIPAK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+    "C:\\Users\\DIPAK\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
